@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/CrypticMuze/Foodies_Website/blob/master/images/logo.png" alt="FoodiesLogo" height=150px width=150px/>
+<img src="https://github.com/CrypticMuze/Foodies_Website/blob/master/images/logo.png" alt="FoodiesLogo" height=100px width=200px/>
 </p>
 
 # Foodies Website
