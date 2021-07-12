@@ -5,7 +5,7 @@
 # Foodies Website
 ## About the Project
 
-  This is a responsive website made using HTML. CSS, and Bootstrap 5 for a restarant
+  This is a demo responsive website made using HTML. CSS, JS, and Bootstrap 5 for a restarant. 
 
 ## Live Demonstartion of the Project
 
