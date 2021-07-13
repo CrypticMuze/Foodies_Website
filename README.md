@@ -16,7 +16,7 @@
 1. Clone repo on your local system
 
 ```bash
-git clone https://github.com/MishraLokesh/Health_Hub.git
+git clone https://github.com/CrypticMuze/Foodies_Website.git
 ```
 2. Using VS Code Live Server launch live server to see the basic website working
 
