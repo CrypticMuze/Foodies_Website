@@ -31,4 +31,4 @@ To contribute to this project:
 Note: Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Connect with the Collaborators
-1. Aman Anand - [LinkedIN](https://www.linkedin.com/in/amanxanand/) || [GitHub](https://github.com/aman-anand1906) || [Instagram](https://www.instagram.com/aman_anand_619/")
+1. Aman Anand - [LinkedIN](https://www.linkedin.com/in/amanxanand/) || [GitHub](https://github.com/CrypticMuze) || [Instagram](https://www.instagram.com/_am.an.and_/)
